@@ -113,4 +113,5 @@ dist
 build
 .strapi-updater.json
 
-yarn.lock
+package-lock.json
+pnpm-lock.yaml
